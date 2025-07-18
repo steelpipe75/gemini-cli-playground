@@ -2,5 +2,16 @@
   "hostRequirements": {
     "cpus": 2
   },
-  "postCreateCommand": "npm install -g @google/gemini-cli"
+  "postCreateCommand": "npm install -g @google/gemini-cli",
+  "customizations": {
+    "codespaces": {
+      "openFiles": []
+    },
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  }
 }
