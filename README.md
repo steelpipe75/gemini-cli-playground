@@ -40,6 +40,12 @@ Gemini CLI お試し用リポジトリ
 
 ![Create-codespace-on-mainをクリック](./image/template_repository/Step8_Create-codespace-on-mainをクリック.png)
 
+#### Step.9 "gemini_cli_auth_helper_codespaces.ipynb" をクリック
+
+![ipynbファイルを選択](./image/template_repository/Step9_gemini_cli_auth_helper_codespaces-ipynbをクリック.webp)
+
+あとは gemini_cli_auth_helper_codespaces.ipynb の記述に従い、Gemini CLIのユーザー認証を行う。
+
 ## 参考記事
 
 - [SSH先でgemini-cliを使うために認証をどうにかする : https://zenn.dev/yuys13/articles/gemini-cli-with-ssh](https://zenn.dev/yuys13/articles/gemini-cli-with-ssh)
