@@ -40,11 +40,7 @@ Gemini CLI お試し用リポジトリ
 
 ![Create-codespace-on-mainをクリック](./image/template_repository/Step8_Create-codespace-on-mainをクリック.png)
 
-#### Step.9 "gemini_cli_auth_helper_codespaces.ipynb" をクリック
-
-![ipynbファイルを選択](./image/template_repository/Step9_gemini_cli_auth_helper_codespaces-ipynbをクリック.webp)
-
-あとは gemini_cli_auth_helper_codespaces.ipynb の記述に従い、Gemini CLIのユーザー認証を行う。
+.devcontainer/devcontainer.json のpostCreateCommandに記載した設定に従い Codespacesの起動時にGemini-CLIがインストールされるのを待つ
 
 ## 参考記事
 
