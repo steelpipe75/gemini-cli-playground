@@ -2,6 +2,10 @@
 
 Gemini CLI お試し用リポジトリ
 
+このリポジトリを紹介するために書いたQiita   
+[Google Colab & GitHub Codespaces で Gemini CLI を試す（ローカル環境不要！）](https://qiita.com/steelpipe75/items/cb64f15eb40b1d7fd95b)
+
+
 ## 使い方
 
 ### このテンプレートリポジトリを元にリポジトリを作る
